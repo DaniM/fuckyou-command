@@ -8,7 +8,7 @@ fuckyou <process name> and it will kill the process along with a nice unicode ch
 Enough of jokes! It's a simple program that I wrote in less than an hour (I think I spent more time writing the Makefile than the command itself) to laugh a little. It's inefficient and ugly, but hey the 
 
 
-To install this wonderful command in your *unix just type
+To install this wonderful command in your *nix just type
 
 make install
 
