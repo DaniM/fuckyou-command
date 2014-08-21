@@ -13,3 +13,5 @@ To install this wonderful command in your *nix just type
 make install
 
 and that's all! Now you can say GFYS to every running process
+
+BTW: This one is funnier and (truth be told) better https://github.com/robotlolita/fuck-you
