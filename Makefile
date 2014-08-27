@@ -3,7 +3,7 @@
 default_target: fuckyou
 
 install: fuckyou
-	sudo cp fuckyou /usr/local/bin
+	install fuckyou /usr/local/bin
 	rm -f *.o
 	rm -f fuckyou
 
